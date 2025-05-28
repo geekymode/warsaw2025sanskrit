@@ -31,7 +31,7 @@ options(htmltools.dir.version = FALSE)
 ```
 
 ::: {.fullwidth} 
-Walking through the corridors of the University of Warsaw library, visitors might pause to admire the elegant Sanskrit inscriptions that grace its walls as part of a comprehensive tribute to classical languages and civilizations. It is a stunning display of texts in Hebrew, Polish, Sanskrit, as well as musical notation and mathematical symbols. At first glance, the Sanskrit text appear as a single, flowing text—beautiful yet mysterious to most passersby. However, a closer examination reveals something far more intriguing: these aren't verses from a single source, but rather a carefully curated mosaic of some of Hinduism's most sacred texts.
+Walking around the University of Warsaw library, visitors might pause to admire the elegant Sanskrit inscriptions that grace its walls as part of a comprehensive tribute to classical languages and civilizations. It is a stunning display of texts in Hebrew, Polish, Sanskrit, as well as musical notation and mathematical symbols. At first glance, the Sanskrit text appear as a single, flowing text—beautiful yet mysterious to most passersby. However, a closer examination reveals something far more intriguing: these aren't verses from a single source, but rather a carefully curated mosaic of some of Hinduism's most sacred texts.
 :::
 
 ```{r figAll, fig.margin = TRUE, fig.cap = "The Warsaw University Library wall featuring aspects of music,culture and sciences.", message=TRUE, cache=TRUE, echo=FALSE, out.width='100%'}
